@@ -1,2 +1,2 @@
 # hello-world
-Repository of wisdom
+I'm Josh. Why are you reading this?
